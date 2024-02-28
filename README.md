@@ -1,10 +1,8 @@
  ## Olá 👋
 
-### Carlos Alves
+### Me chamo Carlos Alves
 
-" Compartilhando conhecimentos práticos do dia a dia no trabalho."
-
-Sobre: Sou assistente, mas também programador, e aplico meus conhecimentos para automatizar tarefas e encontrar novas maneiras de melhorar a rotina dos meus colegas de trabalho.
+ Sou assistente em TI, mas também programador, e aplico meus conhecimentos para automatizar tarefas e encontrar novas maneiras de melhorar a rotina dos meus colegas de trabalho.
 
 Objetivo: Compartilhar dicas e truques úteis para resolver problemas do cotidiano no ambiente de trabalho, especialmente relacionados à automação e otimização de processos.
 
